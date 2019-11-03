@@ -1,4 +1,6 @@
-# Reveal.js Template with Gulp Instead of Grunt
+# Git Intro
+
+A tutorial on git, github and github-classroom
 
 ## Build and Run
 
