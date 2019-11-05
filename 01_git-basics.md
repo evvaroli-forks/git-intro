@@ -46,4 +46,4 @@ The default documentation on github is written with markdown.
 
 I have to confess - I love it!
 
-Once again, lets see waht R. Stropek tells us: [Github for Edu - Markdown](https://rstropek.github.io/GitHubEduWorkshop/#/5)
+Lets see what R. Stropek tells us: [Github for Edu - Markdown](https://rstropek.github.io/GitHubEduWorkshop/#/5)
