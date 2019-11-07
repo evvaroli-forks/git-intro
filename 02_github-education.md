@@ -1,6 +1,6 @@
 # GitHub Education
 
-Once again we will visit Rainer Stropeks slides: [GitHub for Edu](https://rstropek.github.io/GitHubEduWorkshop/#/7).
+We will visit Rainer Stropeks slides: [GitHub for Edu](https://rstropek.github.io/GitHubEduWorkshop/#/7).
 
 ---
 <!-- .slide: class="left" -->
